@@ -1,4 +1,4 @@
-# Api Generator
+# Api Generator (Edited)
 RESTful API generator using NodeJS, Express and Mongoose.
 
 ## CHANGLE LOG: 
